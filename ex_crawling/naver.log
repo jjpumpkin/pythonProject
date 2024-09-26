@@ -1,0 +1,58 @@
+2024-09-23 17:23:58,391 - naver_price.py - INFO - 저장 시작!!!
+2024-09-23 17:24:03,738 - naver_price.py - INFO - 저장 시작!!!
+2024-09-23 17:24:07,794 - naver_price.py - INFO - 저장 시작!!!
+2024-09-23 17:26:20,634 - naver_price.py - INFO - 저장 시작!!!
+2024-09-23 17:27:01,722 - naver_price.py - INFO - current price 정상 저장
+2024-09-23 17:27:01,723 - naver_price.py - INFO - current price 완료
+2024-09-23 17:36:33,223 - naver_price.py - INFO - 003460:유화증권현재 가격 가져오기
+2024-09-23 17:36:33,254 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:36:33,258 - naver_price.py - INFO - 003460:2215
+2024-09-23 17:36:33,340 - naver_price.py - ERROR - 'createDt'
+2024-09-23 17:36:33,343 - naver_price.py - INFO - current price 완료
+2024-09-23 17:37:00,163 - naver_price.py - INFO - 003460:유화증권현재 가격 가져오기
+2024-09-23 17:37:00,190 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:37:00,191 - naver_price.py - INFO - 003460:2215
+2024-09-23 17:37:00,274 - naver_price.py - ERROR - 'data'
+2024-09-23 17:37:00,276 - naver_price.py - INFO - current price 완료
+2024-09-23 17:37:12,610 - naver_price.py - INFO - 003460:유화증권현재 가격 가져오기
+2024-09-23 17:37:12,633 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:37:12,634 - naver_price.py - INFO - 003460:2215
+2024-09-23 17:37:12,709 - naver_price.py - INFO - 유화증권 토론방 수집 시작
+2024-09-23 17:37:12,709 - naver_price.py - ERROR - 'NoneType' object is not iterable
+2024-09-23 17:37:12,711 - naver_price.py - INFO - current price 완료
+2024-09-23 17:38:34,121 - naver_price.py - INFO - 003460:유화증권현재 가격 가져오기
+2024-09-23 17:38:34,158 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:38:34,159 - naver_price.py - INFO - 003460:2215
+2024-09-23 17:38:34,244 - naver_price.py - INFO - 유화증권 토론방 수집 시작
+2024-09-23 17:38:34,272 - naver_price.py - INFO - 유화증권 토론방 수집 종료
+2024-09-23 17:38:34,272 - naver_price.py - INFO - 047400:유니온머티리얼현재 가격 가져오기
+2024-09-23 17:38:34,291 - naver_price.py - INFO - get_price 정상 요청
+2024-09-23 17:38:34,291 - naver_price.py - INFO - 047400:2090
+2024-09-23 17:38:34,370 - naver_price.py - INFO - 유니온머티리얼 토론방 수집 시작
+2024-09-23 17:38:34,377 - naver_price.py - INFO - 유니온머티리얼 토론방 수집 종료
+2024-09-23 17:38:34,378 - naver_price.py - INFO - current price 정상 저장
+2024-09-23 17:38:34,378 - naver_price.py - INFO - current price 완료
+2024-09-24 13:49:09,816 - naver_price.py - INFO - 003460:유화증권현재 가격 가져오기
+2024-09-24 13:49:09,852 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 13:49:09,858 - naver_price.py - INFO - 003460:2210
+2024-09-24 13:49:09,944 - naver_price.py - INFO - 유화증권 토론방 수집 시작
+2024-09-24 13:49:09,957 - naver_price.py - INFO - 유화증권 토론방 수집 종료
+2024-09-24 13:49:09,957 - naver_price.py - INFO - 047400:유니온머티리얼현재 가격 가져오기
+2024-09-24 13:49:09,980 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 13:49:09,980 - naver_price.py - INFO - 047400:2115
+2024-09-24 13:49:10,058 - naver_price.py - INFO - 유니온머티리얼 토론방 수집 시작
+2024-09-24 13:49:10,066 - naver_price.py - INFO - 유니온머티리얼 토론방 수집 종료
+2024-09-24 13:49:10,066 - naver_price.py - INFO - current price 정상 저장
+2024-09-24 13:49:10,068 - naver_price.py - INFO - current price 완료
+2024-09-24 18:14:00,567 - naver_price.py - INFO - 003460:유화증권현재 가격 가져오기
+2024-09-24 18:14:00,597 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 18:14:00,602 - naver_price.py - INFO - 003460:2210
+2024-09-24 18:14:00,679 - naver_price.py - INFO - 유화증권 토론방 수집 시작
+2024-09-24 18:14:00,693 - naver_price.py - INFO - 유화증권 토론방 수집 종료
+2024-09-24 18:14:00,693 - naver_price.py - INFO - 047400:유니온머티리얼현재 가격 가져오기
+2024-09-24 18:14:00,719 - naver_price.py - INFO - get_price 정상 요청
+2024-09-24 18:14:00,719 - naver_price.py - INFO - 047400:2115
+2024-09-24 18:14:00,791 - naver_price.py - INFO - 유니온머티리얼 토론방 수집 시작
+2024-09-24 18:14:00,797 - naver_price.py - INFO - 유니온머티리얼 토론방 수집 종료
+2024-09-24 18:14:00,798 - naver_price.py - INFO - current price 정상 저장
+2024-09-24 18:14:00,799 - naver_price.py - INFO - current price 완료
