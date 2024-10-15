@@ -28,7 +28,7 @@ def move_space(event):
 app =Tk()
 canvas = Canvas(app,width=400,height=300)
 canvas.pack()            #x1,y1,x2,y2 사각형에 원을 그림 좌상단과 우하단의 좌표
-img =Image.open('../../python_base/ex_util/tiger.png')
+img =Image.open('../../ex_util/tiger.png')
 img =img.resize((50, 50))
 item = ImageTk.PhotoImage(img)
 canvas.create_image(100,100, image=item, tag='tiger')
